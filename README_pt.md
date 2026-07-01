@@ -1,54 +1,54 @@
-# Labs práticos de MongoDB
+# Labs práticos de MongoDB Skill Tree
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/UodozQY00GFu.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/pt/learn/mongodb">
+    <img width="128" src="https://file.labex.io/upload/u/1991/UodozQY00GFu.png" alt="MongoDB Skill Tree">
+  </a>
+</p>
 
 Aprenda MongoDB, um banco de dados NoSQL líder reconhecido por sua flexibilidade e escalabilidade. Este abrangente Roteiro de Aprendizagem oferece uma série estruturada de cursos de MongoDB projetados para iniciantes dominarem a administração e o desenvolvimento. O roteiro abrange tópicos essenciais, incluindo modelagem de dados baseada em documentos, operações CRUD, indexação, agregação e ajuste de desempenho. Através de cursos práticos (não em vídeo) e exercícios práticos, você ganhará experiência no mundo real para gerenciar e utilizar bancos de dados MongoDB de forma eficaz.
 
-Explore até 29 labs práticos de MongoDB no LabEx. Cada lab abre em um ambiente interativo para você praticar fazendo.
+[Começar a praticar no LabEx](https://labex.io/pt/learn/mongodb)
 
-|   Índice | Nome                                                                                                              | Habilidades                | Dificuldade   | Prática                                                                               |
-|----------|-------------------------------------------------------------------------------------------------------------------|----------------------------|---------------|---------------------------------------------------------------------------------------|
-|       01 | [Lidar com Erros do MongoDB](https://labex.io/pt/labs/mongodb-handle-mongodb-errors-422085)                       | Operação do MongoDB Shell  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-handle-mongodb-errors-422085)          |
-|       02 | [Trabalhar com Datas no MongoDB](https://labex.io/pt/labs/mongodb-work-with-mongodb-dates-422101)                 | Operação do MongoDB Shell  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-work-with-mongodb-dates-422101)        |
-|       03 | [Validar Dados no MongoDB](https://labex.io/pt/labs/mongodb-validate-mongodb-data-422100)                         | Validação de Coleção       | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-validate-mongodb-data-422100)          |
-|       04 | [Usar Referências no MongoDB](https://labex.io/pt/labs/mongodb-use-mongodb-references-422099)                     | Referências de documentos  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-use-mongodb-references-422099)         |
-|       05 | [Use Índices do MongoDB](https://labex.io/pt/labs/mongodb-use-mongodb-indexes-422098)                             | Operação do MongoDB Shell  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-use-mongodb-indexes-422098)            |
-|       06 | [Utilizar Tipos Básicos do MongoDB](https://labex.io/pt/labs/mongodb-use-mongodb-basic-types-422097)              | Inserção de Documento      | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-use-mongodb-basic-types-422097)        |
-|       07 | [Atualizar Arrays no MongoDB](https://labex.io/pt/labs/mongodb-update-mongodb-arrays-422095)                      | Consultas de arrays        | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-update-mongodb-arrays-422095)          |
-|       08 | [Transformar Dados do MongoDB](https://labex.io/pt/labs/mongodb-transform-mongodb-data-422094)                    | Pipeline de agregação      | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-transform-mongodb-data-422094)         |
-|       09 | [Resumir Dados do MongoDB](https://labex.io/pt/labs/mongodb-summarize-mongodb-data-422093)                        | Operação do MongoDB Shell  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-summarize-mongodb-data-422093)         |
-|       10 | [Estruturar Dados de Produtos no MongoDB](https://labex.io/pt/labs/mongodb-structure-mongodb-product-data-422092) | Modelagem de Esquema       | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-structure-mongodb-product-data-422092) |
-|       11 | [Consultar Arrays no MongoDB](https://labex.io/pt/labs/mongodb-query-mongodb-arrays-422090)                       | Consultas de arrays        | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-query-mongodb-arrays-422090)           |
-|       12 | [Projetar Campos MongoDB](https://labex.io/pt/labs/mongodb-project-mongodb-fields-422089)                         | Operação do MongoDB Shell  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-project-mongodb-fields-422089)         |
-|       13 | [Gerenciar Documentos Embutidos no MongoDB](https://labex.io/pt/labs/mongodb-manage-mongodb-embedded-docs-422088) | Operação do MongoDB Shell  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-manage-mongodb-embedded-docs-422088)   |
-|       14 | [Vincular Documentos MongoDB](https://labex.io/pt/labs/mongodb-link-mongodb-documents-422087)                     | Referências de documentos  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-link-mongodb-documents-422087)         |
-|       15 | [Importar Dados do MongoDB](https://labex.io/pt/labs/mongodb-import-mongodb-data-422086)                          | Importar e Exportar        | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-import-mongodb-data-422086)            |
-|       16 | [Seu Primeiro Laboratório de MongoDB](https://labex.io/pt/labs/mongodb-your-first-mongodb-lab-420660)             | Operação do MongoDB Shell  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-your-first-mongodb-lab-420660)         |
-|       17 | [Manipular Arrays no MongoDB](https://labex.io/pt/labs/mongodb-handle-mongodb-arrays-422084)                      | Consultas de arrays        | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-handle-mongodb-arrays-422084)          |
-|       18 | [Agrupar Dados MongoDB](https://labex.io/pt/labs/mongodb-group-mongodb-data-422083)                               | Pipeline de agregação      | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-group-mongodb-data-422083)             |
-|       19 | [Exportar Dados do MongoDB](https://labex.io/pt/labs/mongodb-export-mongodb-data-422081)                          | Importar e Exportar        | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-export-mongodb-data-422081)            |
-|       20 | [Design de Esquema de Pedido MongoDB](https://labex.io/pt/labs/mongodb-design-mongodb-order-schema-422080)        | Modelagem de Esquema       | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-design-mongodb-order-schema-422080)    |
-|       21 | [Criar Índices no MongoDB](https://labex.io/pt/labs/mongodb-create-mongodb-indexes-422078)                        | Operação do MongoDB Shell  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-create-mongodb-indexes-422078)         |
-|       22 | [Construir Perfis de Usuário no MongoDB](https://labex.io/pt/labs/mongodb-build-mongodb-user-profiles-422077)     | Recuperação de Documentos  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-build-mongodb-user-profiles-422077)    |
-|       23 | [Ordenar e Limitar Resultados do MongoDB](https://labex.io/pt/labs/mongodb-sort-and-limit-mongodb-results-421807) | Recuperação de Documentos  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-sort-and-limit-mongodb-results-421807) |
-|       24 | [Filtrar Coleções MongoDB](https://labex.io/pt/labs/mongodb-filter-mongodb-collections-421806)                    | Inserção de Documento      | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-filter-mongodb-collections-421806)     |
-|       25 | [Escrever Consultas Básicas no MongoDB](https://labex.io/pt/labs/mongodb-write-basic-mongodb-queries-420824)      | Recuperação de Documentos  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-write-basic-mongodb-queries-420824)    |
-|       26 | [Atualizar Registros no MongoDB](https://labex.io/pt/labs/mongodb-update-mongodb-records-420823)                  | Atualizações de documentos | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-update-mongodb-records-420823)         |
-|       27 | [Excluir Dados do MongoDB](https://labex.io/pt/labs/mongodb-delete-mongodb-data-420822)                           | Inserção de Documento      | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-delete-mongodb-data-420822)            |
-|       28 | [Inserir Dados no MongoDB](https://labex.io/pt/labs/mongodb-insert-data-in-mongodb-420696)                        | Operação do MongoDB Shell  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-insert-data-in-mongodb-420696)         |
-|       29 | [Criar Coleção MongoDB](https://labex.io/pt/labs/mongodb-create-mongodb-collection-420695)                        | Operação do MongoDB Shell  | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-create-mongodb-collection-420695)      |
+Explore até 29 labs práticos de MongoDB Skill Tree no LabEx. Cada lab abre em um ambiente interativo para você praticar fazendo.
 
-[Ver todos os labs](https://labex.io/pt/learn/mongodb).
+|   Índice | Nome                                                                                                     | Dificuldade   | Prática                                                                               |
+|----------|----------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------|
+|       01 | [Handle MongoDB Errors](https://labex.io/pt/labs/mongodb-handle-mongodb-errors-422085)                   | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-handle-mongodb-errors-422085)          |
+|       02 | [Work With MongoDB Dates](https://labex.io/pt/labs/mongodb-work-with-mongodb-dates-422101)               | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-work-with-mongodb-dates-422101)        |
+|       03 | [Validate MongoDB Data](https://labex.io/pt/labs/mongodb-validate-mongodb-data-422100)                   | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-validate-mongodb-data-422100)          |
+|       04 | [Use MongoDB References](https://labex.io/pt/labs/mongodb-use-mongodb-references-422099)                 | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-use-mongodb-references-422099)         |
+|       05 | [Use MongoDB Indexes](https://labex.io/pt/labs/mongodb-use-mongodb-indexes-422098)                       | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-use-mongodb-indexes-422098)            |
+|       06 | [Use MongoDB Basic Types](https://labex.io/pt/labs/mongodb-use-mongodb-basic-types-422097)               | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-use-mongodb-basic-types-422097)        |
+|       07 | [Update MongoDB Arrays](https://labex.io/pt/labs/mongodb-update-mongodb-arrays-422095)                   | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-update-mongodb-arrays-422095)          |
+|       08 | [Transform MongoDB Data](https://labex.io/pt/labs/mongodb-transform-mongodb-data-422094)                 | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-transform-mongodb-data-422094)         |
+|       09 | [Summarize MongoDB Data](https://labex.io/pt/labs/mongodb-summarize-mongodb-data-422093)                 | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-summarize-mongodb-data-422093)         |
+|       10 | [Structure MongoDB Product Data](https://labex.io/pt/labs/mongodb-structure-mongodb-product-data-422092) | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-structure-mongodb-product-data-422092) |
+|       11 | [Query MongoDB Arrays](https://labex.io/pt/labs/mongodb-query-mongodb-arrays-422090)                     | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-query-mongodb-arrays-422090)           |
+|       12 | [Project MongoDB Fields](https://labex.io/pt/labs/mongodb-project-mongodb-fields-422089)                 | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-project-mongodb-fields-422089)         |
+|       13 | [Manage MongoDB Embedded Docs](https://labex.io/pt/labs/mongodb-manage-mongodb-embedded-docs-422088)     | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-manage-mongodb-embedded-docs-422088)   |
+|       14 | [Link MongoDB Documents](https://labex.io/pt/labs/mongodb-link-mongodb-documents-422087)                 | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-link-mongodb-documents-422087)         |
+|       15 | [Import MongoDB Data](https://labex.io/pt/labs/mongodb-import-mongodb-data-422086)                       | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-import-mongodb-data-422086)            |
+|       16 | [Your First MongoDB Lab](https://labex.io/pt/labs/mongodb-your-first-mongodb-lab-420660)                 | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-your-first-mongodb-lab-420660)         |
+|       17 | [Handle MongoDB Arrays](https://labex.io/pt/labs/mongodb-handle-mongodb-arrays-422084)                   | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-handle-mongodb-arrays-422084)          |
+|       18 | [Group MongoDB Data](https://labex.io/pt/labs/mongodb-group-mongodb-data-422083)                         | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-group-mongodb-data-422083)             |
+|       19 | [Export MongoDB Data](https://labex.io/pt/labs/mongodb-export-mongodb-data-422081)                       | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-export-mongodb-data-422081)            |
+|       20 | [Design MongoDB Order Schema](https://labex.io/pt/labs/mongodb-design-mongodb-order-schema-422080)       | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-design-mongodb-order-schema-422080)    |
+|       21 | [Create MongoDB Indexes](https://labex.io/pt/labs/mongodb-create-mongodb-indexes-422078)                 | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-create-mongodb-indexes-422078)         |
+|       22 | [Build MongoDB User Profiles](https://labex.io/pt/labs/mongodb-build-mongodb-user-profiles-422077)       | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-build-mongodb-user-profiles-422077)    |
+|       23 | [Sort and Limit MongoDB Results](https://labex.io/pt/labs/mongodb-sort-and-limit-mongodb-results-421807) | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-sort-and-limit-mongodb-results-421807) |
+|       24 | [Filter MongoDB Collections](https://labex.io/pt/labs/mongodb-filter-mongodb-collections-421806)         | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-filter-mongodb-collections-421806)     |
+|       25 | [Write Basic MongoDB Queries](https://labex.io/pt/labs/mongodb-write-basic-mongodb-queries-420824)       | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-write-basic-mongodb-queries-420824)    |
+|       26 | [Update MongoDB Records](https://labex.io/pt/labs/mongodb-update-mongodb-records-420823)                 | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-update-mongodb-records-420823)         |
+|       27 | [Delete MongoDB Data](https://labex.io/pt/labs/mongodb-delete-mongodb-data-420822)                       | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-delete-mongodb-data-420822)            |
+|       28 | [Insert Data in MongoDB](https://labex.io/pt/labs/mongodb-insert-data-in-mongodb-420696)                 | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-insert-data-in-mongodb-420696)         |
+|       29 | [Create MongoDB Collection](https://labex.io/pt/labs/mongodb-create-mongodb-collection-420695)           | Iniciante     | [Iniciar Lab](https://labex.io/pt/labs/mongodb-create-mongodb-collection-420695)      |
 
-## Mais
+[Ver mais no LabEx](https://labex.io/pt/learn/mongodb)
 
-- 🔗 [Saiba mais sobre MongoDB no LabEx](https://labex.io/pt/learn/mongodb)
-- 🔗 [Explore mais projetos de programação](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Explore cursos de programação](https://github.com/labex-labs/awesome-programming-courses)
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
